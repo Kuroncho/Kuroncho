@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hola, soy Cristopher — @Kuroncho</h1>
+  <h1>👋 Hola, soy @Kuroncho</h1>
   <h3>🥷 SysAdmin • QA Automation • Ing. Infraestructura & Operaciones</h3>
   <p>Automatizo, aseguro y mantengo todo andando... aunque a veces parezca que se hizo solo.</p>
 
